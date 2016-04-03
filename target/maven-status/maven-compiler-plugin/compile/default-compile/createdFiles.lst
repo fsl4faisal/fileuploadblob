@@ -1,0 +1,4 @@
+com\faisal\model\Document.class
+com\faisal\controller\ImageController.class
+com\faisal\dao\DocumentDAO.class
+com\faisal\controller\DocumentController.class
